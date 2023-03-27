@@ -1,3 +1,6 @@
+body {
+	display:inline;
+}
 
 .gitgud {
 	color: pink;
@@ -8,7 +11,13 @@
 	-webkit-text-stroke-color: black;
 }
 
-.flames {
-	text-align: center;
+.lflames {
+	text-align: right;	
+}
+
+.rflames {
+	position: relative;
+	top: -755px;
+	text-align: left;
 	
 }
